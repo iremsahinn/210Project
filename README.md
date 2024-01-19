@@ -42,36 +42,46 @@ The analysis revealed several key insights:
 - Top 3 watched genres were:
   - Teen TV Shows             149 times
   - TV Dramas                 137 times
-  - Romantic TV Dramas        129 times 
+  - Romantic TV Dramas        129 times
+    
 ![image](/Picture1.png)
 - Top 3 watched types were:
   - Emotional      204 times
   - Heartfelt      161 times
   - Suspenseful    156 times
+    
 ![image](/Picture2.png)
 
-- Mostly, TV was preferred to watch movies and TV series. 
+- Mostly, TV was preferred to watch movies and TV series.
+  
 ![image](/Picture3.png)
 - Looking at the viewing time, more viewing was done in the afternoons.
+  
 ![image](/Picture4.png)
 - The interaction effect analysis vividly illustrated these patterns, showing a clear preference for romantic genres on TVs in the afternoon and comedies on PCs in the evening.
 
-- There was a significant association between the time of day and the genre of content watched. Romantic content was more frequently watched during afternoon hours, aligning with the hypothesis. 
+- There was a significant association between the time of day and the genre of content watched. Romantic content was more frequently watched during afternoon hours, aligning with the hypothesis.
+  
 ![image](/Picture5.png)
 
 - The choice of device also varied with the time of day. Larger screens like TVs were preferred during the afternoon.
+  
 ![image](/Picture6.png)
 
 - Consumption of comedy content increases in evenings, predominantly on PC devices, supporting the hypothesis.
+  
 ![image](/Picture7.png)
 
 - Consumption of romantic content increases in afternoons, predominantly on TV devices, supporting the hypothesis.
+  
 ![image](/Picture8.png)
 
 - Watching duration and watched device has the highest correlation compared to other categories.
+  
 ![image](/Picture9.png)
 
 - Device type usage/popularity is not change considerably over the time. It tends to maintain similar popularity rates.
+  
 ![image](/Picture10.png)
 
 

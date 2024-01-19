@@ -2,7 +2,7 @@
 
 **Introduction**
 
-The purpose of this project was to explore my personal streaming data on Netflix, focusing on the correlation between the genre of what I watched, time of day, and device type I used for streaming. My hypothesis was: "During afternoon hours, I am more likely to watch romantic content on larger screens like TVs, while evenings see a higher viewership of comedies on PC devices." The purpose of this study is to get understanding about my own watching habits and preferences.
+The purpose of this project was to explore my personal streaming data on Netflix, focusing on the correlation between the genre of what I watched, time of day, and device type I used for streaming. My hypothesis was: "During afternoon hours, I am more likely to watch romantic content on larger screens like TVs, while evenings I am more likely to watch comedies on PC devices." The purpose of this study is to get understanding about my own watching habits and preferences.
 
 **Data Source**
 
@@ -88,3 +88,5 @@ The analysis revealed several key insights:
 **Conclusion**
 
 The idea was validated by the data analysis, which showed clear trends in streaming behavior depending on the device type, content genre, and time of day. These results offer insightful information about individual viewing preferences and can guide future selections of devices and content for the best possible streaming experience.
+
+All these data shows us that my hypothesis is useful and during afternoon hours, I am more likely to watch romantic content on larger screens like TVs, while evenings I am more likely to watch comedies on PC devices.
